@@ -63,7 +63,7 @@
 1. **克隆项目**
 ```bash
 git clone https://github.com/loopy898/article-ai-system.git
-cd ermian
+cd article-ai-system
 ```
 
 2. **安装依赖**
