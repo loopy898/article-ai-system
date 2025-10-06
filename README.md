@@ -62,7 +62,7 @@
 
 1. **克隆项目**
 ```bash
-git clone <repository-url>
+git clone https://github.com/loopy898/article-ai-system.git
 cd ermian
 ```
 
@@ -189,10 +189,6 @@ python run.py
 5. 推送到你的Fork
 6. 创建Pull Request
 
-## 📄 许可证
-
-本项目采用MIT许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
-
 ## 🙏 致谢
 
 感谢以下开源项目的支持：
@@ -206,7 +202,7 @@ python run.py
 
 如有问题或建议，请通过以下方式联系：
 - 提交GitHub Issue
-- 发送邮件至：[your-email@example.com]
+- 发送邮件至：1706636899@qq.com
 
 ---
 
